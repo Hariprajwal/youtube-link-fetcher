@@ -2,7 +2,7 @@
 
 > Fetch YouTube video links instantly using simple search queries.
 
-A lightweight Python tool powered by SerpAPI that allows you to quickly retrieve YouTube video links for any topic. Built for simplicity, speed, and easy integration into automation workflows..
+A lightweight Python tool powered by SerpAPI that allows you to quickly retrieve YouTube video links for any topic. Built for simplicity, speed, and easy integration into automation workflows.
 
 ---
 <img width="1034" height="307" alt="image" src="https://github.com/user-attachments/assets/918b2144-b91e-4041-acbd-6dd9f8519445" />
